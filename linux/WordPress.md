@@ -40,7 +40,7 @@ By the end of this project, you will understand:
 - `EXIT;`
 
 ### ⚙️ Install PHP and Required Extensions
-- `sudo apt install php8.5 php8.5-mysql libapache2-mod-php8.5 php8.5-cli php8.5-curl php8.5-gd php8.5-mbstring php8.5-xml php8.5-soap php8.5-intl php8.5-zip unzip`
+- `sudo apt install php8.3 php8.3-mysql libapache2-mod-php8.3 php8.3-cli php8.3-curl php8.3-gd php8.3-mbstring php8.3-xml php8.3-soap php8.3-intl php8.3-zip unzip`
 - `apache2ctl -M | grep php` # Show loaded Apache modules and check if there is "php_module (shared)"
 - Restart Apache: `sudo systemctl restart apache2`
 
