@@ -19,7 +19,7 @@ By the end of this project, you will understand:
 - `sudo systemctl start apache2`
 
 ### ⚙️ Configure Apache Web Server
-- `sudo nano /etc/apache2/apache2.conf` and add this line: `ServerName localhost` # Optional: Backup the file first
+- `sudo nano /etc/apache2/sites-available/000-default.conf` and add: `ServerName localhost` # Optional: Backup the file first
 - `sudo nano /etc/apache2/sites-available/000-default.conf` and change `DocumentRoot` to `/var/www/wordpress` # Optional: Backup the file first
 - `sudo mkdir /var/www/wordpress`
 - Restart Apache: `sudo systemctl restart apache2`
