@@ -80,7 +80,7 @@ public class DiningPhilosophersDemo {
     }
 
     // --------------------------------------------------------------------
-    // 1. Solution using synchronized methods (monitor-based approach)
+    // 1. Solution using a synchronized monitor
     // --------------------------------------------------------------------
     static class DiningPhilosophersSync implements DiningPhilosophers {
         private enum State {
@@ -119,7 +119,7 @@ public class DiningPhilosophersDemo {
     }
 
     // --------------------------------------------------------------------
-    // 2. Solution using Semaphores
+    // 2. Solution using semaphores
     // --------------------------------------------------------------------
     static class DiningPhilosophersSem implements DiningPhilosophers {
         // There is no need for an internal state variable to track whether a
