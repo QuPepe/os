@@ -1,55 +1,55 @@
-# APA Referencing Style (7th Edition)
+# APA 第七版引用格式指南
 
-## What is APA Style?
+## APA 是什麼？
 
-APA (American Psychological Association) style consists of two components:
+APA（American Psychological Association，美國心理學會）格式包含兩個部分：
 
-1. In-Text Citations
-2. Reference List
+1. 文中引用 (In-Text Citation)
+2. 參考文獻 (Reference List)
 
 ---
 
-## In-Text Citations
+## 文中引用 (In-Text Citation)
 
-### Parenthetical Citation
+### 括號式引用 (Parenthetical Citation)
 
-Use when the citation appears at the end of a sentence.
-
-```text
-Blockchain can improve transparency in financial transactions (Nakamoto, 2008).
-```
-
-### Narrative Citation
-
-Use when the author's name is part of the sentence.
+當引用出現在句尾時：
 
 ```text
-Nakamoto (2008) proposed Bitcoin as a peer-to-peer electronic cash system.
+區塊鏈可提升金融交易透明度 (Nakamoto, 2008)。
 ```
 
-### Two Authors
+### 敘述式引用 (Narrative Citation)
+
+當作者名稱是句子的一部分時：
+
+```text
+Nakamoto（2008）提出了比特幣點對點電子現金系統。
+```
+
+### 兩位作者
 
 ```text
 (Allen & Overy, 2022)
 ```
 
-### Three or More Authors
+### 三位以上作者
 
 ```text
 (Tapscott et al., 2016)
 ```
 
-APA 7th Edition uses et al. from the first citation when there are three or more authors.
+APA 第七版規定，三位以上作者從第一次引用開始即使用 et al.
 
 ---
 
-## Direct Quotations
+## 直接引用 (Direct Quotations)
 
 ```text
 (Nakamoto, 2008, p. 1)
 ```
 
-For webpages:
+若無頁碼：
 
 ```text
 (World Economic Forum, 2023, para. 4)
@@ -57,30 +57,30 @@ For webpages:
 
 ---
 
-## Common Reference Types
+## 常見參考文獻格式
 
-### Journal Article
+### 期刊論文
 
 ```text
-Beck, R., Müller-Bloch, C., & King, J. L. (2018). Governance in the blockchain economy: A framework and research agenda. Journal of the Association for Information Systems, 19(10), 1020–1034. https://doi.org/10.17705/1jais.00518
+Beck, R., Müller-Bloch, C., & King, J. L. (2018). Governance in the blockchain economy: A framework and research agenda. Journal of the Association for Information Systems, 19(10), 1020–1034.
 ```
 
-### Book
+### 書籍
 
 ```text
 Tapscott, D., & Tapscott, A. (2016). Blockchain revolution: How the technology behind Bitcoin is changing money, business, and the world. Portfolio.
 ```
 
-### Website
+### 網頁
 
 ```text
-Ethereum Foundation. (2024). Introduction to smart contracts. Ethereum.org. https://ethereum.org/en/developers/docs/smart-contracts/
+Ethereum Foundation. (2024). Introduction to smart contracts. Ethereum.org.
 ```
 
 ### GitHub Repository
 
 ```text
-Hyperledger Foundation. (2024). Hyperledger Fabric [Computer software]. GitHub. https://github.com/hyperledger/fabric
+Hyperledger Foundation. (2024). Hyperledger Fabric [Computer software]. GitHub.
 ```
 
 ### Dataset
@@ -91,7 +91,21 @@ Cambridge Centre for Alternative Finance. (2023). Cambridge Bitcoin Electricity 
 
 ---
 
-## Common Mistakes
+## 常見錯誤
+
+❌
+
+```text
+區塊鏈可提升透明度（Nakamoto, 2008）。
+```
+
+✅
+
+```text
+區塊鏈可提升透明度 (Nakamoto, 2008)。
+```
+
+---
 
 ❌
 
@@ -121,10 +135,22 @@ Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. https://bit
 
 ---
 
-## Final Checklist
+## 建議格式
 
-- Every in-text citation appears in the reference list.
-- Every reference appears in the text.
-- Authors and years are correct.
-- DOI or URL is included when available.
-- References are arranged alphabetically.
+| 情境 | 建議格式 |
+|------|----------|
+| 括號式引用 | `(Nakamoto, 2008)` |
+| 敘述式引用 | `Nakamoto（2008）` |
+| References | APA 原始英文格式 |
+| DOI | 保留 |
+| URL | 保留 |
+
+---
+
+## 檢查表
+
+- 文中引用與 References 一一對應。
+- 作者姓名拼寫一致。
+- 出版年份正確。
+- DOI 或 URL 已提供。
+- References 已依字母順序排列。
