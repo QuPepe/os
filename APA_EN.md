@@ -1,11 +1,15 @@
 # APA Referencing Style (7th Edition)
 
-## What is APA Style?
+## What Is APA Style?
 
-APA (American Psychological Association) style consists of two components:
+APA (American Psychological Association) Style is one of the most widely used citation and referencing styles in academic writing. It is widely adopted in the social sciences, information systems, management, education, and psychology.
+
+APA style consists of two components:
 
 1. In-Text Citations
-2. Reference List
+2. A Reference List, typically placed at the end of the paper
+
+In-text citations briefly identify the source of information within the text, while the reference list provides complete publication details, enabling readers to locate, verify, and cite the original sources.
 
 ---
 

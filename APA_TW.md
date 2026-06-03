@@ -1,11 +1,15 @@
 # APA 第七版引用格式指南
 
-## APA 是什麼？
+## APA 引用格式是什麼？
 
-APA（American Psychological Association，美國心理學會）格式包含兩個部分：
+APA（American Psychological Association，美國心理學會）引用格式是學術寫作中最常用的引用格式之一，廣泛應用於社會科學、資訊系統、管理學、教育學及心理學等領域。
+
+APA 引用包含兩個部分：
 
 1. 文中引用 (In-Text Citation)
-2. 參考文獻 (Reference List)
+2. 參考文獻 (Reference List)，通常置於文章末尾
+
+文中引用用於簡要標示資料來源；參考文獻則提供完整的出版資訊，使讀者能夠追溯、查證及引用原始文獻。
 
 ---
 
