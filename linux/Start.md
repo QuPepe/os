@@ -1,4 +1,4 @@
-# VirtualBox
+# VirtualBox Settings
 
 - Increase video RAM; choose "NAT" or "Bridged networking"; choose USB 3.0.
 
